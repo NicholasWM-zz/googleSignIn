@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "194542609307",
+    "firebase_url": "https://signin-3030a.firebaseio.com",
+    "project_id": "signin-3030a",
+    "storage_bucket": "signin-3030a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:194542609307:android:bf72f2f7940b2640eeb73e",
+        "android_client_info": {
+          "package_name": "com.mynewapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "194542609307-a6cjd41rk78g04rs7t8pbonmqpc1vcpj.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.mynewapp",
+            "certificate_hash": "d56550fd1e0943f51a93fe099e222778b6e36d22"
+          }
+        },
+        {
+          "client_id": "194542609307-j880a2euov5ehg32sls7ks9peb98ke45.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCgUZ8Ds-hwSE2ZuPIEQaSQE2ueQlDPgVo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "194542609307-j880a2euov5ehg32sls7ks9peb98ke45.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
